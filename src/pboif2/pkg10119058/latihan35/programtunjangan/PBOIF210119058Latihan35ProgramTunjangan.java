@@ -33,7 +33,7 @@ public class PBOIF210119058Latihan35ProgramTunjangan {
         System.out.println("Gaji Pokok        : " + karyawan.gajiPokok);
         System.out.println("Tunjangan         : " + karyawan.getTunjangan());
         System.out.println("Total Gaji        : " + karyawan.getTotalGaji());
-        System.out.println("Developed by Caraka Muhamad Rahman");
+        System.out.println("(Developed by Caraka Muhamad Rahman)");
     }
     
 }
